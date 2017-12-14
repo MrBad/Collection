@@ -1,0 +1,6 @@
+A generic collection implementation, that can store any number of elements, of any kind and size.
+You can mix different types objects in the collection.
+When you push an object in the collection, this object is not actually copied in.
+Only a reference is added to the collection.
+This means that if you change the object after you push it into the collection,
+the object in the collection also changes.

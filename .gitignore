@@ -1,0 +1,7 @@
+a.out
+*.o
+collection
+core
+tags
+.idea
+
